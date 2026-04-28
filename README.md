@@ -6,8 +6,7 @@
 
 I like building projects where models meet real workflows: fairness audits, code-review environments, useful dashboards, and systems that can be explained clearly to both engineers and decision-makers.
 
-[![GitHub followers](https://img.shields.io/github/followers/sidhesh0706?style=for-the-badge&label=Followers&color=0f766e)](https://github.com/sidhesh0706)
-[![Profile views](https://komarev.com/ghpvc/?username=sidhesh0706&style=for-the-badge&color=0f766e)](https://github.com/sidhesh0706)
+
 
 </div>
 
