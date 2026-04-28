@@ -48,7 +48,7 @@ I like building projects where models meet real workflows: fairness audits, code
 <div align="center">
 
 ![Sidhesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=sidhesh0706&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sidhesh0706&layout=compact&theme=tokyonight&hide_border=true)
+
 
 </div>
 
