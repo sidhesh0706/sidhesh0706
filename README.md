@@ -2,42 +2,42 @@
 
 # Sidhesh
 
-### AI + full-stack builder. Fast MVPs. Serious execution.
+### AI + full-stack builder. Competitive systems. Product-grade MVPs.
 
-I build AI products, evaluation systems, and polished full-stack demos that move from idea to working software fast. I care about sharp product thinking, clean interfaces, and engineering that holds up when people actually use it.
+I turn sharp ideas into working software fast: AI products, evaluation systems, and full-stack demos built to be used, judged, and improved.
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=680&lines=AI+systems+builder;Full-stack+execution+under+pressure;Hackathons%2C+MVPs%2C+and+product-grade+demos;Competitive+problem+solver" alt="AI systems and full-stack builder" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2500&pause=850&color=38BDF8&center=true&vCenter=true&width=720&lines=Ship+fast.+Think+clearly.+Compete+hard.;AI+products+%2B+full-stack+execution;Hackathon+MVPs+with+real+product+taste;IMC+Prosperity+4+%E2%80%94+Global+%23346+%7C+India+%2354" alt="AI full-stack builder typing banner" />
 
 </div>
 
 ---
 
-## Proof of Work
+## Proof
 
 | Signal | Evidence |
 |---|---|
-| Competitive execution | IMC Prosperity 4 - Global Rank #346, India Rank #54 |
-| AI product building | Built Aition, a causal AI fairness audit product for detecting hidden proxy bias |
-| Full-stack range | Comfortable across Python, React, FastAPI, data workflows, UI polish, and deployment |
-| Hackathon speed | Built for fast MVP cycles: problem framing, core system, demo flow, and narrative |
-| Product taste | I care about making technical systems understandable, inspectable, and usable |
+| Competitive edge | IMC Prosperity 4 - Global #346, India #54 |
+| AI product execution | Built Aition, a causal AI fairness audit product for proxy-bias detection |
+| Full-stack range | Python, React, FastAPI, data workflows, UI polish, deployment |
+| Hackathon velocity | Problem framing -> core system -> demo narrative -> shipped MVP |
+| Product instinct | Technical systems made understandable, inspectable, and credible |
 
-## Featured Builds
+## Selected Builds
 
-| Build | Why it matters |
+| Build | Signal |
 |---|---|
-| [Aition](https://github.com/sidhesh0706/Aition) | Responsible AI product work: causal fairness auditing, proxy-bias detection, and a dashboard designed for high-stakes review |
-| [project8PM](https://github.com/sidhesh0706/project8PM) | AI evaluation infrastructure: Python OpenEnv environment for code-review workflows and agent-style assessment |
+| [Aition](https://github.com/sidhesh0706/Aition) | Responsible AI: causal fairness auditing, proxy-path detection, and a dashboard for high-stakes model review |
+| [project8PM](https://github.com/sidhesh0706/project8PM) | AI evaluation infrastructure: Python OpenEnv environment for code-review and agent assessment workflows |
 
-## What I Am Good At
+## Operating Mode
 
-- Building AI-first MVPs quickly without losing the product story
-- Turning messy technical ideas into demos people can understand in one pass
-- Writing backend logic, frontend interfaces, and documentation that support the same narrative
-- Competing under pressure and improving from feedback fast
-- Thinking like both an engineer and an early-stage product builder
+- Build AI-first MVPs from blank page to demo
+- Move across backend, frontend, docs, and product story
+- Compete well under pressure
+- Optimize for clarity, speed, and trust
+- Think like an engineer with founder instincts
 
-## Tech I Use
+## Stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=FFD43B" alt="Python" />
@@ -50,22 +50,18 @@ I build AI products, evaluation systems, and polished full-stack demos that move
   <img src="https://img.shields.io/badge/Git-0F172A?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
 </p>
 
-## Current Focus
+## Now
 
 - AI evaluation systems and developer tooling
 - Responsible AI products that explain model behavior
-- Full-stack demos that feel credible in front of judges, users, and recruiters
+- Full-stack demos that can survive recruiter, judge, and user scrutiny
 - Competitive programming, trading simulations, and high-pressure problem solving
-
-## Open To
-
-Internships, hackathon teams, AI product collaborations, and early-stage teams building ambitious technical products.
 
 ---
 
 <div align="center">
 
-### I like building things that make people stop scrolling.
+### Open to internships, hackathon teams, AI product work, and early-stage teams moving fast.
 
 [GitHub](https://github.com/sidhesh0706)
 
