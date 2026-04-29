@@ -2,72 +2,70 @@
 
 # Sidhesh
 
-### AI systems, full-stack products, and evaluation tooling.
+### AI + full-stack builder. Fast MVPs. Serious execution.
 
-I build practical AI-driven software with a bias toward fast execution, clean interfaces, and systems that are easy to inspect, explain, and improve.
+I build AI products, evaluation systems, and polished full-stack demos that move from idea to working software fast. I care about sharp product thinking, clean interfaces, and engineering that holds up when people actually use it.
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=620&lines=AI+%2B+Full-stack+builder;Evaluation+systems+%26+developer+tools;Product-minded+engineering+for+real+workflows" alt="AI full-stack builder typing banner" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=680&lines=AI+systems+builder;Full-stack+execution+under+pressure;Hackathons%2C+MVPs%2C+and+product-grade+demos;Competitive+problem+solver" alt="AI systems and full-stack builder" />
 
 </div>
 
 ---
 
-## Snapshot
+## Proof of Work
 
-| I care about | How that shows up |
+| Signal | Evidence |
 |---|---|
-| AI systems that can be trusted | Causal audits, evaluation environments, explainable workflows |
-| Strong product execution | Dashboards, polished demos, tight user-facing flows |
-| Engineering depth | Python, React, FastAPI, data pipelines, testing, and deployment |
-| Hackathon velocity | Turning ambiguous ideas into working MVPs with clear narratives |
+| Competitive execution | IMC Prosperity 4 - Global Rank #346, India Rank #54 |
+| AI product building | Built Aition, a causal AI fairness audit product for detecting hidden proxy bias |
+| Full-stack range | Comfortable across Python, React, FastAPI, data workflows, UI polish, and deployment |
+| Hackathon speed | Built for fast MVP cycles: problem framing, core system, demo flow, and narrative |
+| Product taste | I care about making technical systems understandable, inspectable, and usable |
 
-## Featured Work
+## Featured Builds
 
-| Project | Signal |
+| Build | Why it matters |
 |---|---|
-| [Aition](https://github.com/sidhesh0706/Aition) | Responsible AI product work: causal fairness auditing, proxy-bias detection, and a polished React dashboard for high-stakes review |
+| [Aition](https://github.com/sidhesh0706/Aition) | Responsible AI product work: causal fairness auditing, proxy-bias detection, and a dashboard designed for high-stakes review |
 | [project8PM](https://github.com/sidhesh0706/project8PM) | AI evaluation infrastructure: Python OpenEnv environment for code-review workflows and agent-style assessment |
 
-## Tech Stack
+## What I Am Good At
+
+- Building AI-first MVPs quickly without losing the product story
+- Turning messy technical ideas into demos people can understand in one pass
+- Writing backend logic, frontend interfaces, and documentation that support the same narrative
+- Competing under pressure and improving from feedback fast
+- Thinking like both an engineer and an early-stage product builder
+
+## Tech I Use
 
 <p>
-  <img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=ffd43b" alt="Python" />
-  <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61dafb" alt="React" />
-  <img src="https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=f7df1e" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=2496ed" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=f05032" alt="Git" />
-  <img src="https://img.shields.io/badge/Pandas-111827?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/scikit--learn-111827?style=flat-square&logo=scikitlearn&logoColor=f7931e" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=FFD43B" alt="Python" />
+  <img src="https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/FastAPI-0F172A?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/scikit--learn-0F172A?style=flat-square&logo=scikitlearn&logoColor=F7931E" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Pandas-0F172A?style=flat-square&logo=pandas&logoColor=FFFFFF" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Docker-0F172A?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-0F172A?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
 </p>
 
 ## Current Focus
 
-- Building AI tools that are useful beyond a demo
-- Improving evaluation loops for model and code-review systems
-- Designing interfaces that make technical results easy to trust
-- Shipping faster without making the work feel rushed
+- AI evaluation systems and developer tooling
+- Responsible AI products that explain model behavior
+- Full-stack demos that feel credible in front of judges, users, and recruiters
+- Competitive programming, trading simulations, and high-pressure problem solving
 
-## Highlights
+## Open To
 
-- Built AI evaluation infrastructure around code-review style workflows
-- Worked on a causal AI fairness dashboard that translates hidden proxy bias into visible evidence
-- Comfortable moving across backend logic, frontend polish, docs, and demo storytelling
-- Optimizing for projects that are easy for recruiters, judges, and collaborators to understand quickly
-
-## Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sidhesh0706&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" alt="Sidhesh GitHub activity stats" />
-
-</div>
+Internships, hackathon teams, AI product collaborations, and early-stage teams building ambitious technical products.
 
 ---
 
 <div align="center">
 
-### Open to internships, hackathons, ambitious AI projects, and teams that care about shipping well.
+### I like building things that make people stop scrolling.
 
 [GitHub](https://github.com/sidhesh0706)
 
