@@ -17,7 +17,7 @@ I turn sharp ideas into working software fast: AI products, evaluation systems, 
 | Signal | Evidence |
 |---|---|
 | Competitive edge | IMC Prosperity 4 - Global #346, India #54 |
-| AI product execution | Built Aition, a causal AI fairness audit product for proxy-bias detection |
+| AI product execution | Built responsible AI tools across fairness auditing, evaluation infrastructure, and AI safety education |
 | Full-stack range | Python, React, FastAPI, data workflows, UI polish, deployment |
 | Hackathon velocity | Problem framing -> core system -> demo narrative -> shipped MVP |
 | Product instinct | Technical systems made understandable, inspectable, and credible |
@@ -28,6 +28,7 @@ I turn sharp ideas into working software fast: AI products, evaluation systems, 
 |---|---|
 | [Aition](https://github.com/sidhesh0706/Aition) | Responsible AI: causal fairness auditing, proxy-path detection, and a dashboard for high-stakes model review |
 | [project8PM](https://github.com/sidhesh0706/project8PM) | AI evaluation infrastructure: Python OpenEnv environment for code-review and agent assessment workflows |
+| [AI Safety Content Guide](https://github.com/sidhesh0706/safetycontent) | Streamlit education platform for AI-generated content safety, deepfake forensics, prompt-injection simulations, and digital literacy |
 
 ## Operating Mode
 
@@ -54,6 +55,7 @@ I turn sharp ideas into working software fast: AI products, evaluation systems, 
 
 - AI evaluation systems and developer tooling
 - Responsible AI products that explain model behavior
+- AI literacy and safety experiences for real users
 - Full-stack demos that can survive recruiter, judge, and user scrutiny
 - Competitive programming, trading simulations, and high-pressure problem solving
 
