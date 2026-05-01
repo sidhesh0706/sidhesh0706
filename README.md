@@ -26,7 +26,7 @@ I turn sharp ideas into working software fast: AI products, evaluation systems, 
 
 | Build | Signal |
 |---|---|
-| [Aition](https://github.com/sidhesh0706/Aition) | Responsible AI: causal fairness auditing, proxy-path detection, and a dashboard for high-stakes model review |
+| [Aition](https://github.com/sidhesh0706/Aition) | Lead contributor on a forked responsible-AI project: causal fairness auditing, proxy-path detection, and a dashboard for high-stakes model review |
 | [project8PM](https://github.com/sidhesh0706/project8PM) | AI evaluation infrastructure: Python OpenEnv environment for code-review and agent assessment workflows |
 | [AI Safety Content Guide](https://github.com/sidhesh0706/safetycontent) | Streamlit education platform for AI-generated content safety, deepfake forensics, prompt-injection simulations, and digital literacy |
 
