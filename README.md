@@ -16,7 +16,7 @@ I turn sharp ideas into working software fast: AI products, evaluation systems, 
 
 | Signal | Evidence |
 |---|---|
-| Competitive edge | IMC Prosperity 4 - Global #346, India #54 |
+| Competitive edge | IMC Prosperity 4 - Global #346, India #54 - ROUND 3 |
 | AI product execution | Built responsible AI tools across fairness auditing, evaluation infrastructure, and AI safety education |
 | AI safety education | Built AI Safety Content Guide, a Streamlit platform for deepfake forensics, prompt-injection labs, scam-response practice, and digital literacy |
 | Full-stack range | Python, React, FastAPI, data workflows, UI polish, deployment |
