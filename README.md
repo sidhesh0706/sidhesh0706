@@ -24,10 +24,6 @@ I turn sharp ideas into working software fast: AI products, evaluation systems, 
 | Hackathon velocity | Problem framing -> core system -> demo narrative -> shipped MVP |
 | Product instinct | Technical systems made understandable, inspectable, and credible |
 
-## Activity Snapshot
-
-<img src="./assets/github-activity-overview.svg" alt="GitHub activity overview with contribution organizations, repository contributions, and activity mix" width="746" />
-
 ## Selected Builds
 
 | Build | Signal |
@@ -63,6 +59,10 @@ I turn sharp ideas into working software fast: AI products, evaluation systems, 
   <img src="https://img.shields.io/badge/Docker-0F172A?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-0F172A?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
 </p>
+
+## Activity Snapshot
+
+<img src="./assets/github-activity-overview.svg" alt="GitHub activity overview with contribution organizations, repository contributions, and activity mix" width="746" />
 
 ## Now
 
