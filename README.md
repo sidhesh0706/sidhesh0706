@@ -28,7 +28,7 @@ I turn sharp ideas into working software fast: AI products, evaluation systems, 
 
 | Build | Signal |
 |---|---|
-| [SkillMint AI](https://github.com/sidhesh0706/skillmint-ai) | Premium Next.js + Tailwind AI career-tools platform, starting with an AI resume bullet generator. [Live](https://skillmint-ai.vercel.app) |
+| [SkillMint AI](https://github.com/sidhesh0706/skillmint-ai) | A live Next.js AI career workspace with six tools for resume bullets, resume critique, JD matching, project-to-resume packaging, LinkedIn headlines, and cover-letter drafts. [Live](https://skillmint-ai.vercel.app) |
 | [Warehouse Logistics](https://github.com/sidhesh0706/warehouselogistics) | Smart inventory DBMS with SQLite schema design, triggers, stock movement tracking, reorder alerts, expiry alerts, and a Python dashboard |
 | [IMC Prosperity](https://github.com/sidhesh0706/imc) | Algorithmic trading submissions for IMC Prosperity Rounds 1-3, finishing Round 3 at Global #346 and India #57 |
 | [Aition](https://github.com/sidhesh0706/Aition) | Lead contributor: causal fairness auditing, proxy-path detection, and a dashboard for high-stakes model review |
@@ -66,13 +66,11 @@ I turn sharp ideas into working software fast: AI products, evaluation systems, 
 
 ## Now
 
-- AI career tooling with product-grade UX
-- Warehouse logistics and inventory systems with practical database design
-- Agent benchmark environments and developer tooling
-- Responsible AI products that explain model behavior
-- AI literacy and safety experiences for real users
-- Full-stack demos that can survive recruiter, judge, and user scrutiny
-- Competitive programming, trading simulations, and high-pressure problem solving
+- Shipping AI career tooling with production-focused UX iteration
+- Building full-stack AI products across frontend, backend, evaluation, and deployment
+- Deepening RAG and applied AI engineering through an internship-focused learning track
+- Exploring agent benchmarks, responsible AI, and developer tooling
+- Practicing competitive systems thinking through trading simulations and hackathons
 
 ---
 
