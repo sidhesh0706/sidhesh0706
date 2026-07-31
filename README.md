@@ -2,11 +2,13 @@
 
 # Sidhesh
 
-### AI + full-stack builder. Competitive systems. Product-grade MVPs.
+### AI engineering. Full-stack product building. Competitive problem solving.
 
-I turn sharp ideas into working software fast: AI products, evaluation systems, full-stack demos, and data-backed tools built to be used, judged, and improved.
+I build practical AI systems and full-stack products, with a focus on retrieval, evaluation, dependable tooling, and clear user value.
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2500&pause=850&color=38BDF8&center=true&vCenter=true&width=720&lines=Ship+fast.+Think+clearly.+Compete+hard.;AI+products+%2B+full-stack+execution;Hackathon+MVPs+with+real+product+taste;IMC+Prosperity+4+%E2%80%94+Global+%23346+%7C+India+%2357" alt="AI full-stack builder typing banner" />
+**Currently:** AI Intern — working on RAG pipelines, retrieval systems, embeddings, and practical enterprise AI tooling.
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=2500&pause=850&color=38BDF8&center=true&vCenter=true&width=720&lines=Applied+AI+%2B+full-stack+execution;RAG%2C+retrieval%2C+and+agent+workflows;Products+built+to+be+used+and+evaluated;IMC+Prosperity+4+%E2%80%94+Global+%23346+%7C+India+%2357" alt="Applied AI, full-stack product, and competitive problem-solving focus" />
 
 </div>
 
@@ -16,32 +18,21 @@ I turn sharp ideas into working software fast: AI products, evaluation systems, 
 
 | Signal | Evidence |
 |---|---|
-| Recent shipping | SkillMint AI, warehouse logistics DBMS, IMC Prosperity submissions, AI safety education, and agent benchmark environments |
-| AI product execution | Built responsible AI tools across fairness auditing, evaluation infrastructure, and AI safety education |
-| AI safety education | Built AI Safety Content Guide, a Streamlit platform for deepfake forensics, prompt-injection labs, scam-response practice, and digital literacy |
-| Full-stack range | Python, TypeScript, React, Next.js, FastAPI, Streamlit, SQLite, data workflows, UI polish, deployment |
-| Competitive edge | IMC Prosperity 4 - Global #346, India #57 - Round 3 |
-| Hackathon velocity | Problem framing -> core system -> demo narrative -> shipped MVP |
-| Product instinct | Technical systems made understandable, inspectable, and credible |
+| Current AI internship | Working on RAG pipelines, embeddings, vector retrieval, LLM systems, AI agents, and enterprise AI tooling |
+| Competition performance | [IMC Prosperity 4](https://github.com/sidhesh0706/imc) Round 3 — Global #346, India #57 |
+| Shipped product | [SkillMint AI](https://skillmint-ai.vercel.app/) is a live AI career workspace with six focused tools and a no-signup workflow |
+| Technical range | Python, TypeScript, React, Next.js, FastAPI, Streamlit, SQLite, evaluation workflows, retrieval systems, and deployment |
 
 ## Selected Builds
 
 | Build | Signal |
 |---|---|
-| [SkillMint AI](https://github.com/sidhesh0706/skillmint-ai) | A live Next.js AI career workspace with six tools for resume bullets, resume critique, JD matching, project-to-resume packaging, LinkedIn headlines, and cover-letter drafts. [Live](https://skillmint-ai.vercel.app) |
-| [Warehouse Logistics](https://github.com/sidhesh0706/warehouselogistics) | Smart inventory DBMS with SQLite schema design, triggers, stock movement tracking, reorder alerts, expiry alerts, and a Python dashboard |
-| [IMC Prosperity](https://github.com/sidhesh0706/imc) | Algorithmic trading submissions for IMC Prosperity Rounds 1-3, finishing Round 3 at Global #346 and India #57 |
-| [Aition](https://github.com/sidhesh0706/Aition) | Lead contributor: causal fairness auditing, proxy-path detection, and a dashboard for high-stakes model review |
-| [project8PM](https://github.com/sidhesh0706/project8PM) | OpenEnv IT helpdesk and security operations benchmark where agents investigate tickets, apply policy, manage state, and resolve or escalate safely |
-| [AI Safety Content Guide](https://github.com/sidhesh0706/safetycontent) | Streamlit education platform for AI-generated content safety, deepfake forensics, prompt-injection simulations, and digital literacy |
-
-## Operating Mode
-
-- Build AI-first MVPs from blank page to demo
-- Move across backend, frontend, database design, docs, and product story
-- Compete well under pressure
-- Optimize for clarity, speed, and trust
-- Think like an engineer with founder instincts
+| [SkillMint AI](https://github.com/sidhesh0706/skillmint-ai) | Built and deployed a Next.js AI career workspace with six focused workflows, server-side model calls, browser persistence, and route QA. [Live demo](https://skillmint-ai.vercel.app/) |
+| [project8PM](https://github.com/sidhesh0706/project8PM) | Built an OpenEnv IT helpdesk and security benchmark for evaluating policy-aware agent investigation, state management, and safe escalation. |
+| [AI Safety Content Guide](https://github.com/sidhesh0706/safetycontent) | Built a Streamlit learning platform with deepfake forensics, prompt-injection labs, scam-response practice, and digital-literacy resources. |
+| [IMC Prosperity](https://github.com/sidhesh0706/imc) | Developed Python trading submissions for Rounds 1–3, with a documented Round 3 finish of Global #346 and India #57. |
+| [Warehouse Logistics](https://github.com/sidhesh0706/warehouselogistics) | Built a SQLite-backed inventory system with stock movements, operational triggers, alerts, and a browser-based Python dashboard. |
+| [Aition](https://github.com/suyashkumar102/Aition) | Contributed dashboard UI/UX refinements—visual hierarchy, audit-state clarity, graph colors, and responsive behavior—to this collaborative fairness-auditing project. |
 
 ## Stack
 
@@ -60,24 +51,18 @@ I turn sharp ideas into working software fast: AI products, evaluation systems, 
   <img src="https://img.shields.io/badge/Git-0F172A?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
 </p>
 
-## Activity Snapshot
-
-<img src="./assets/github-activity-overview.svg" alt="GitHub activity overview with contribution organizations, repository contributions, and activity mix" width="746" />
-
 ## Now
 
-- Shipping AI career tooling with production-focused UX iteration
-- Building full-stack AI products across frontend, backend, evaluation, and deployment
-- Deepening RAG and applied AI engineering through an internship-focused learning track
-- Exploring agent benchmarks, responsible AI, and developer tooling
-- Practicing competitive systems thinking through trading simulations and hackathons
+- Production RAG systems and retrieval evaluation
+- Agent workflows and dependable AI tooling
+- Full-stack AI products with clear user value
 
 ---
 
 <div align="center">
 
-### Open to internships, hackathon teams, AI product work, and early-stage teams moving fast.
+### Open to future AI engineering opportunities, hackathon teams, technical collaborations, and ambitious product work.
 
-[GitHub](https://github.com/sidhesh0706)
+[GitHub](https://github.com/sidhesh0706) · [SkillMint live demo](https://skillmint-ai.vercel.app/) · LinkedIn: **[ADD LINKEDIN URL]** · Email: **[ADD EMAIL ADDRESS]**
 
 </div>
