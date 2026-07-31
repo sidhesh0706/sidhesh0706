@@ -63,6 +63,6 @@ I build practical AI systems and full-stack products, with a focus on retrieval,
 
 ### Open to future AI engineering opportunities, hackathon teams, technical collaborations, and ambitious product work.
 
-[GitHub](https://github.com/sidhesh0706) · [SkillMint live demo](https://skillmint-ai.vercel.app/) · LinkedIn: **[ADD LINKEDIN URL]** · Email: **[ADD EMAIL ADDRESS]**
+[GitHub](https://github.com/sidhesh0706) · [SkillMint live demo](https://skillmint-ai.vercel.app/) · LinkedIn: **[https://www.linkedin.com/in/sidhesh-panda/]** · Email: **[sidheshpanda0706@gmail.com]**
 
 </div>
